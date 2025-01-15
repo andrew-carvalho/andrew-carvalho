@@ -1,7 +1,7 @@
 ## Olá! Sou o Andrew Ignácio, é um prazer te conhecer 👋
 
-- 🔭 Atualmente trabalho com **SAP ABAP**
-- 🌱 Estudando **Python, Javascript e SAP BTP (CPI, CAP)**
+- 👨‍💻 Atualmente trabalho com **SAP ABAP**
+- 📚 Estudando **Java e Javascript**
 - 📫 Contate-me no e-mail **andrewignacio@outlook.com.br**
 
 <div style="display: inline_block">
@@ -9,8 +9,8 @@
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python icon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sap-3.svg">
+  <img align="center" alt="Java icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SAP icon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sap-3.svg">
   <br>
 </div>
 
