@@ -1,7 +1,7 @@
 ## Olá! Sou o Andrew Ignácio, é um prazer te conhecer 👋
 
 - 👨‍💻 Atualmente trabalho com **SAP ABAP**
-- 📚 Estudando **Java e Javascript**
+- 📚 Estudando **Java**
 - 📫 Contate-me no e-mail **andrewignacio@outlook.com.br**
 
 <div style="display: inline_block">
