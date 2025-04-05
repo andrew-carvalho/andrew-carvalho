@@ -1,4 +1,4 @@
-## Olá! Sou o Andrew Ignácio, é um prazer te conhecer 👋
+## Olá! Sou o Andrew Ignácio 👋
 
 - 👨‍💻 Atualmente trabalho com **SAP ABAP**
 - 📚 Estudando **Java**
